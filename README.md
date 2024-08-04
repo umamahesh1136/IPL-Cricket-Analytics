@@ -15,6 +15,7 @@ Features
 - Dot ball percentages
 - Wicket-taking abilities
 - Performance in different game phases
+- Venue Analysis
 
 🎯 Perfect For
 
