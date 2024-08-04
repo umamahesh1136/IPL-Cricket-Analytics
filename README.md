@@ -1,6 +1,28 @@
 # IPL-Cricket-Analytics 🏏
 Unleash the power of data in cricket! This repository contains SQL queries to analyze IPL (Indian Premier League 2024) match data, providing insights that can revolutionize team strategy and player scouting.
 
+The dataset contains detailed IPL match data, including the following columns:
+- `match_id`: Unique identifier for the match
+- `season`: IPL season
+- `match_no`: Match number
+- `date`: Date of the match
+- `venue`: Venue of the match
+- `batting_team`: Team that is batting
+- `bowling_team`: Team that is bowling
+- `innings`: Innings number
+- `over`: Over number
+- `striker`: Batsman on strike
+- `bowler`: Bowler
+- `runs_of_bat`: Runs scored by the batsman
+- `extras`: Extra runs (wides, no-balls, etc.)
+- `wide`: Wide balls
+- `legbyes`: Leg byes
+- `byes`: Byes
+- `noballs`: No balls
+- `wicket_type`: Type of wicket (if any)
+- `player_dismissed`: Name of the player who got out (if any)
+- `fielder`: Fielder involved in the dismissal (if any)
+
 Features
 
 - Batting performance analysis
